@@ -5,8 +5,10 @@
 ## 🚀 Sobre mim
 Eu sou um estudante de Sistemas para Internet que tem por objetivo se aperfeiçoar em Desenvolvimento Web com foco em Back-End. Tenho um bom conhecimento de HTML, CSS, JavaScript, Java, C, MySQL,  além de noções básicas de Bootstrap, React e Spring. No momento estou estudando Java e Spring, buscando aprofundar meus conhecimentos.
 
-![ItsGui8's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsGui8&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGui8&layout=compact&theme=radical)
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsGui8&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsGui8&layout=compact&theme=radical" height=195px />
+</div>
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/guilherme-alves-rabelo-86a139291)
