@@ -3,7 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou um estudante de Sistemas para Internet que tem por objetivo se aperfeiçoar em Desenvolvimento Web com foco em Back-End. Tenho um bom conhecimento de HTML, CSS, JavaScript, Java, C, MySQL,  além de noções básicas de Bootstrap, React e Spring. No momento estou estudando Java e Spring, buscando aprofundar meus conhecimentos.
+Eu sou um estudante de Sistemas para Internet que tem por objetivo se aperfeiçoar em Desenvolvimento Web com foco em Back-End. Tenho conhecimentos de HTML, CSS, Bootstrap, JavaScript, React, Java, PHP,  C, MySQL e Spring Framework. No momento estou buscando aprofundar meus conhecimentos em Java e Spring Framework, bem como em PHP.
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsGui8&show_icons=true&theme=radical" />
@@ -17,12 +17,12 @@ Eu sou um estudante de Sistemas para Internet que tem por objetivo se aperfeiço
 ## Outras informações
 👩‍💻 Em busca da primeira oportunidade de trabalho.
 
-🧠 Estou aprendendo: Java e Spring.
+🧠 Estou aprendendo: PHP, Java, Spring Framework.
 
 😄 Pronomes: Ele/Dele.
 
 ## 🛠 Habilidades
-HTML, CSS, Bootstrap, JavaScript, React, Java, Spring, MySQL e C.
+HTML, CSS, Bootstrap, JavaScript, React, Java, Spring, MySQL, PHP e C.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -40,6 +40,8 @@ HTML, CSS, Bootstrap, JavaScript, React, Java, Spring, MySQL e C.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />  
